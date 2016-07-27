@@ -1,0 +1,2 @@
+the problem is that the key in that array is a string not a number.
+solution is replace with names[3] = 'jody'
